@@ -1,0 +1,4 @@
+﻿label main_menu:
+    [   0] # Expression: Expression { Expr=CompiledExpression { instructions=List`1, constantFloats=List`1, constantStrings=List`1, constantObjects=List`1 }, WaitInteraction=False }
+    [   1] # WaitForScreen: WaitForScreen { screen="" }
+    [   2] return

@@ -1,0 +1,25 @@
+﻿label ch30_30:
+    [   0] m "You know, it's around the time that everyone my year starts to think about college..."
+    [   1] m "It's a really turbulent time for education."
+    [   2] m "We're at the height of this modern expectation that everyone has to go to college, you know?"
+    [   3] m "Finish high school, go to college, get a job - or go to grad school, I guess."
+    [   4] m "It's like a universal expectation that people just assume is the only option for them."
+    [   5] m "They don't teach us in high school that there are other options out there."
+    [   6] m "Like trade schools and stuff, you know?"
+    [   7] m "Or freelance work."
+    [   8] m "Or the many industries that value skill and experience more than formal education."
+    [   9] m "But you have all these students who have no idea what they want to do with their life..."
+    [  10] m "And instead of taking the time to figure it out, they go to college for business, or communication, or psychology."
+    [  11] m "Not because they have an interest in those fields..."
+    [  12] m "...but because they just hope the degree will get them some kind of job after college."
+    [  13] m "So the end result is that there are fewer jobs to go around for those entry-level degrees, right?"
+    [  14] m "So the basic job requirements get higher, which forces even more people to go to college."
+    [  15] m "And colleges are also businesses, so they just keep raising their prices due to the demand..."
+    [  16] m "...So now we have all these young adults, tens of thousands of dollars in debt, with no job."
+    [  17] m "But despite all that, the routine stays the same."
+    [  18] m "Well, I think it's going to start getting better soon."
+    [  19] m "But until then, our generation is definitely suffering from the worst of it."
+    [  20] m "I just wish high school prepared us a little better with the knowledge we need to make the decision that's right for us."
+    [  21] 
+    [  22] 
+    [  23] return

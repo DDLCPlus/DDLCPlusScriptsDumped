@@ -1,0 +1,3 @@
+﻿label mvoicecredits_3:
+    [   0] call truecenter
+    [   1] # Text: Text { CallParameters=[RenpyCallParameter, RenpyCallParameter, RenpyCallParameter, RenpyCallParameter] }

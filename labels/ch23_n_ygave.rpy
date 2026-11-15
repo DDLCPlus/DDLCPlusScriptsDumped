@@ -1,0 +1,15 @@
+﻿label ch23_n_ygave:
+    [   0] n 1h "What?"
+    [   1] n "You gave your poem to Yuri?"
+    [   2] n 4x "Gross!"
+    [   3] n "What is with you two?"
+    [   4] n 1s "Hmph..."
+    [   5] n "It's not like I wanted to read it anyway."
+    [   6] n 1r "It's just pissing me off a little bit that you didn't even think to show me at all."
+    [   7] n 1x "...Ugh."
+    [   8] n 1q "Okay...I guess I'm going to share my poem with you anyway."
+    [   9] n "I really hate that I have to do this."
+    [  10] n "But unfortunately I don't have much of a choice."
+    [  11] n 1h "Just...read it carefully, okay?"
+    [  12] n "Then you can go away."
+    [  13] return

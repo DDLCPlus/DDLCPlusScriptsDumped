@@ -1,0 +1,27 @@
+﻿label ch30_29:
+    [   0] m "You know, I've always hated how hard it is to make friends..."
+    [   1] m "Well, I guess not the 'making friends' part, but more like meeting new people."
+    [   2] m "I mean, there are like, dating apps and stuff, right?"
+    [   3] m "But that's not the kind of thing I'm talking about."
+    [   4] m "If you think about it, most of the friends you make are people you just met by chance."
+    [   5] m "Like you had a class together, or you met them through another friend..."
+    [   6] m "Or maybe they were just wearing a shirt with your favorite band on it, and you decided to talk to them."
+    [   7] m "Things like that."
+    [   8] m "But isn't that kind of...inefficient?"
+    [   9] m "It feels like you're just picking at complete random, and if you get lucky, you make a new friend."
+    [  10] m "And comparing that to the hundreds of strangers we walk by every single day..."
+    [  11] m "You could be sitting right next to someone compatible enough to be your best friend for life."
+    [  12] m "But you'll never know."
+    [  13] m "Once you get up and go on with your day, that opportunity is gone forever."
+    [  14] m "Isn't that just depressing?"
+    [  15] m "We live in an age where technology connects us with the world, no matter where we are."
+    [  16] m "I really think we should be taking advantage of that to improve our everyday social life."
+    [  17] m "But who knows how long it'll take for something like that to successfully take off..."
+    [  18] m "I seriously thought it would happen by now."
+    [  19] m "Well, at least I already met the best person in the whole world..."
+    [  20] m "Even if it was by chance."
+    [  21] m "I guess I just got really lucky, huh?"
+    [  22] m "Ahaha~"
+    [  23] 
+    [  24] 
+    [  25] return

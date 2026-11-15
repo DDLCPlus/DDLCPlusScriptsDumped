@@ -1,0 +1,55 @@
+﻿label ch3_y_end_special:
+    [   0] # RenpyUnlock: Unlock { UnlockType=Normal, UnlockName="ghost_under_the_light_2", UnlockId=4233216783 }
+    [   1] call showpoem(<compiled: CompiledExpression { instructions=[CompiledInstruction], constantFloats=[], constantStrings=["poem_y3b"], constantObjects=[] }>)
+    [   2] "Finishing the poem, I start to hand it back to Yuri."
+    [   3] "But instead of taking it from me, she looks away."
+    [   4] y 4b "..."
+    [   5] y "Do you...dislike it?"
+    [   6] mc "Ah--no, of course not."
+    [   7] mc "I just...don't really know how I should respond."
+    [   8] "Despite Yuri's poems usually being cryptic, it wasn't hard to figure out what this one was about."
+    [   9] unless n_read3 goto [13]
+    [  10] "Also, this clearly isn't the poem that Natsuki said she wrote about..."
+    [  11] "...Meaning I'm probably the only one she's showing this to."
+    [  12] goto [13]
+    [  13] pass
+    [  14] y 2v "I-I don't know if I'll be able to explain this one..."
+    [  15] mc "That's fine."
+    [  16] mc "I understand this one."
+    [  17] y 4c "..."
+    [  18] "Yuri is having an even harder time speaking than usual."
+    [  19] mc "Does this one...mean a lot to you?"
+    [  20] "Yuri nods."
+    [  21] mc "I'm not really good with words, but..."
+    [  22] mc "I'm happy that you shared it with me."
+    [  23] mc "So, thank you."
+    [  24] mc "And I hope we keep spending time together."
+    [  25] show yuri 4e
+    [  26] "Despite my inability to make eye contact, I see a faint smile emerge on Yuri's lips."
+    [  27] "I once again try to hand the poem back to her."
+    [  28] show yuri 4a
+    [  29] "But instead, Yuri gently takes my hands and pushes them back toward me."
+    [  30] "I hesitate in response to her warm touch."
+    [  31] y 1v "You can..."
+    [  32] y "Um..."
+    [  33] y "The poem is..."
+    [  34] "Once again, Yuri fails to form a complete sentence."
+    [  35] mc "You mean I can keep it?"
+    [  36] "Yuri nods."
+    [  37] mc "I'd love to."
+    [  38] show yuri 1u
+    [  39] "Again, Yuri faintly smiles, as if she doesn't want me to notice."
+    [  40] y "You always..."
+    [  41] y "You always...make me feel nice."
+    [  42] y "I know I'm not good with people, but..."
+    [  43] y "I hope that...I can return the favor sometimes."
+    [  44] mc "Yeah."
+    [  45] mc "Don't worry."
+    [  46] mc "I think you do a good job."
+    [  47] "Yuri finally turns back toward me."
+    [  48] y 1s "I guess...we should move on before Monika says something."
+    [  49] y "But I'm sure we can talk again later..."
+    [  50] mc "Yeah."
+    [  51] mc "I'm sure we will."
+    [  52] "With that, Yuri timidly smiles at me, and I return to my seat so I can put her poem away."
+    [  53] return

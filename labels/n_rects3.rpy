@@ -1,0 +1,4 @@
+﻿label n_rects3:
+    [   0] # Expression: Expression { Expr=CompiledExpression { instructions=List`1, constantFloats=List`1, constantStrings=List`1, constantObjects=List`1 }, WaitInteraction=False }
+    [   1] pos (850,485)
+    [   2] size (30, 20)

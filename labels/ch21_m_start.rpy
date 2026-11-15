@@ -1,0 +1,33 @@
+﻿label ch21_m_start:
+    [   0] m 1b "Hi, [player]!"
+    [   1] m "Having a good time so far?"
+    [   2] mc "Ah...yeah."
+    [   3] m 1k "Good! Glad to hear it!"
+    [   4] m 4a "By the way, since you're new and everything..."
+    [   5] m "If you ever have any suggestions for the club, like new activities, or things we can do better..."
+    [   6] m 4b "I'm always listening!"
+    [   7] m "Don't be afraid to bring things up, okay?"
+    [   8] show monika 4a
+    [   9] mc "Alright...I'll keep that in mind."
+    [  10] "Of course I'll be afraid to bring things up."
+    [  11] "I'm much better off just going with the flow until I'm more settled in."
+    [  12] m 1a "Anyway..."
+    [  13] m "Want to share your poem with me?"
+    [  14] mc "It's kind of embarrassing, but I guess I have to."
+    [  15] m 5a "Ahahaha!"
+    [  16] m "Don't worry, [player]!"
+    [  17] m "We're all a little embarrassed today, you know?"
+    [  18] m "But it's that sort of barrier that we'll all learn to get past soon."
+    [  19] mc "Yeah, that's true."
+    [  20] "I hand Monika my poem."
+    [  21] m 2a "...Mhm!"
+    [  22] 
+    [  23] call expression <compiled: CompiledExpression { instructions=[CompiledInstruction], constantFloats=[], constantStrings=["nextscene"], constantObjects=[] }>
+    [  24] m 1a "Anyway, do you want to read my poem now?"
+    [  25] m 1e "Don't worry, I'm not very good..."
+    [  26] mc "You sound pretty confident for someone who claims to not be very good."
+    [  27] m 1j "Well...that's 'cause I have to sound confident."
+    [  28] m 1b "That doesn't mean I always feel that way, you know?"
+    [  29] mc "I see..."
+    [  30] mc "Well, let's read it, then."
+    [  31] return

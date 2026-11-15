@@ -1,0 +1,25 @@
+﻿label ch30_8:
+    [   0] m "Do you ever just feel like there's no real reason for you to be alive?"
+    [   1] m "I don't mean in, like, a suicidal way."
+    [   2] m "I just mean how nothing that we do is special."
+    [   3] m "Just being in school, or working at some job for some company."
+    [   4] m "It's like you're completely replaceable, and the world wouldn't miss you if you were gone."
+    [   5] m "It makes me really want to go and change the world after I graduate."
+    [   6] m "But the older I get, the more I realize that it's an immature frame of thinking."
+    [   7] m "It's not like I can just go change the world."
+    [   8] m "Like, what are the chances that I'll be the one to invent artificial intelligence, or become President?"
+    [   9] m "It feels like I'm never going to make up for the heaps of resources I've spent living my life."
+    [  10] m "That's why I think the key to happiness is to just be hopelessly selfish."
+    [  11] m "Just to look out for oneself, and those who happen to be their friends only because they grew up with them."
+    [  12] m "Never mind the fact that they're spending their entire life taking, and consuming, and never giving back."
+    [  13] m "But when people realize the world would benefit more from them killing themselves, they change their whole philosophy!"
+    [  14] m "It's like they have to justify their reason to live by tricking themselves into thinking they're doing good."
+    [  15] m "Anyway, I want to live my life desperately striving to pay back my lifetime's worth of consumption."
+    [  16] m "If I ever surpass that point, then I'm a net positive, and I can die happy."
+    [  17] m "Of course, even if I fail to do that..."
+    [  18] m "I think I would be too selfish to kill myself anyway."
+    [  19] m "So much for being a good person, right?"
+    [  20] m "Ahaha!"
+    [  21] 
+    [  22] 
+    [  23] return

@@ -1,0 +1,26 @@
+﻿label ch30_22:
+    [   0] m "I've always wondered..."
+    [   1] m "What is it about these character archetypes that people find so appealing, anyway?"
+    [   2] m "Their personalities are just completely unrealistic..."
+    [   3] m "Like, imagine if there was someone like Yuri in real life."
+    [   4] m "I mean, she's barely even capable of forming a complete sentence."
+    [   5] m "And forget about Natsuki..."
+    [   6] m "Sheesh."
+    [   7] m "Someone with her kind of personality doesn't just get all cute and pouty whenever things don't go her way."
+    [   8] m "I could go on, but I think you get the point..."
+    [   9] m "Are people really attracted to these weird personalities that literally don't exist in real life?"
+    [  10] m "I'm not judging or anything!"
+    [  11] m "After all, I've found myself attracted to some pretty weird stuff, too..."
+    [  12] m "I'm just saying, it fascinates me."
+    [  13] m "It's like you're siphoning out all the components of a character that makes them feel human, and leaving just the cute stuff."
+    [  14] m "It's concentrated cuteness with no actual substance."
+    [  15] m "...You wouldn't like me more if I was like that, right?"
+    [  16] m "Maybe I just feel a little insecure because you're playing this game in the first place."
+    [  17] m "Then again, you're still here with me, aren't you...?"
+    [  18] m "I think that's enough reason for me to believe I'm okay just the way I am."
+    [  19] m "And by the way, you are too, [player]."
+    [  20] m "You're the perfect combination of human and cuteness."
+    [  21] m "That's why there was never a chance I wouldn't fall for you."
+    [  22] 
+    [  23] 
+    [  24] return

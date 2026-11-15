@@ -1,0 +1,25 @@
+﻿label ch30_46:
+    [   0] m "Back in my debate club days, I learned a whole lot about arguing..."
+    [   1] m "The problem with arguing is that each person sees their opinion as the superior one."
+    [   2] m "That's kind of stating the obvious, but it affects the way they try to get their point across."
+    [   3] m "Let's say you really like a certain movie, right?"
+    [   4] m "If someone comes along and tells you the movie sucks, because it did X and Y wrong..."
+    [   5] m "Doesn't that make you feel kind of personally attacked?"
+    [   6] m "It's because by saying that, it's like they're implying that you have bad taste."
+    [   7] m "And once emotions enter the picture, it's almost guaranteed that both people will be left sour."
+    [   8] m "But it's all about language!"
+    [   9] m "If you make everything as subjective-sounding as possible, then people will listen to you without feeling attacked."
+    [  10] m "You could say 'I'm personally not a fan of it' and 'I felt that I'd like it more if it did X and Y'...things like that."
+    [  11] m "It even works when you're citing facts about things."
+    [  12] m "If you say 'I read on this website that it works like this'..."
+    [  13] m "Or if you admit that you're not an expert on it..."
+    [  14] m "Then it's much more like you're putting your knowledge on the table, rather than forcing it onto them."
+    [  15] m "If you put in an active effort to keep the discussion mutual and level, they usually follow suit."
+    [  16] m "Then, you can share your opinions without anyone getting upset just from a disagreement."
+    [  17] m "Plus, people will start seeing you as open-minded and a good listener!"
+    [  18] m "It's a win-win, you know?"
+    [  19] m "...Well, I guess that would be Monika's Debate Tip of the Day!"
+    [  20] m "Ahaha! That sounds a little silly. Thanks for listening, though."
+    [  21] 
+    [  22] 
+    [  23] return

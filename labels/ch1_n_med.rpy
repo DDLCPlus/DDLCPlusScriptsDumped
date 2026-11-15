@@ -1,0 +1,15 @@
+﻿label ch1_n_med:
+    [   0] n "..."
+    [   1] mc "...?"
+    [   2] n 2k "...Well, it's about what I expected from someone like you."
+    [   3] mc "That's a little blunt..."
+    [   4] n 2c "Well, excuse me."
+    [   5] n "It's not like I said it was bad."
+    [   6] n "It just didn't evoke any emotions."
+    [   7] mc "So basically, it's not cute enough for your tastes?"
+    [   8] n 4f "Do you want to get smacked?"
+    [   9] mc "I'll pass..."
+    [  10] n 42b "Sigh..."
+    [  11] n 42c "Well anyway, I guess I need to show you mine."
+    [  12] n 4q "Not that you'll like it."
+    [  13] return
